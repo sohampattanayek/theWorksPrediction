@@ -1,4 +1,4 @@
-# 📈 Pro AI Stock Terminal 2026
+# 📈 theWorksPrediction 2026
 ### *Hybrid Intelligence: Sentiment Analysis + LSTM Time-Series Forecasting*
 
 A high-performance financial analysis tool built in Python. This terminal bridges the gap between **quantitative data** (price action) and **qualitative data** (market sentiment) to provide a holistic 30-day stock price forecast.
