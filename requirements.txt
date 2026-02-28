@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+feedparser
+streamlit
+plotly
+torch
+tensorflow
+scikit-learn
+transformers
+sentencepiece
